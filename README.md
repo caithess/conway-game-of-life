@@ -37,3 +37,4 @@ Requires N as first line of file
 0 0 0 255 0 0 0 255
 ```
 
+![](https://github.com/caithess/conway-game-of-life/blob/master/conway_example.gif)
